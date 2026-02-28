@@ -1,9 +1,7 @@
-# Activation after installation of sandbox
+# Activation after creation of the cell sandbox
 
 ```bash
 ~/c2s/cell2sentence$ source ~/miniconda3/bin/activate
-
-(base) ~/c2s-yale/cell2sentence$ conda create -n cell python=3.8
 
 (base) ~/c2s-yale/cell2sentence$ conda activate cell
 ```
