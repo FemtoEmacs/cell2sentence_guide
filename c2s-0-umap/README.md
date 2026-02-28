@@ -1,4 +1,4 @@
-# Tutorial about Umap with examples and h5ad files
+# UMAP of h5ad files
 
 Para desenhar UMAPs, você vai precisar de arquivos no formato h5ad contendo 'single-cell RNA sequences'. Eis onde encontrá-los:
 
@@ -18,9 +18,5 @@ Façamos o download do arquivo intitulado 'Sub UMAP of the pancreas'. Chamemos o
 
 O UMAP ficou assim:
 
-image.png
-Vou executar com outro arquivo:
+![UMAP de células de pâncreas](img/umap-pancreas-h5ad.jpg)
 
-(cell) ~/lixo$ python violin.py urinary.h5ad
-image.png
-Este foi o tutorial ze
