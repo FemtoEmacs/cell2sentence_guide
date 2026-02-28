@@ -6,6 +6,18 @@
 (base) ~/c2s-yale/cell2sentence$ conda activate cell
 ```
 
+An option is simply source the script `xact.src` as shown below.
+
+```bash
+source xact.src
+```
+
+Source the script `ydeact.src` to deactivate:
+
+```bash
+source ydeact.src
+```
+
 ## Only at the first time 
 
 ```bash

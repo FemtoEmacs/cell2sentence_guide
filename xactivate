@@ -1,4 +1,0 @@
-#!/bin/bash
-
-source /home/scm/miniconda3/bin/activate
-conda activate cell
